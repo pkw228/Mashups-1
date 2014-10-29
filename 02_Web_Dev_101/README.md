@@ -1,5 +1,5 @@
 ### Web Dev 101
-
+Hey I'm here!
 ##### I. Discussion - Week 1 Homework
 
 ##### II. Workshop - HTML & CSS Fly-By
